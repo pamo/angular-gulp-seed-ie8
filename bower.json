@@ -1,0 +1,20 @@
+{
+  "name": "angular-gulp-seed-ie8",
+  "version": "0.1.0",
+  "dependencies": {
+    "angular-bootstrap": "0.11.2",
+    "angular-ui-router": "0.2.11",
+    "jquery-modern": "jquery#2.1.1",
+    "jquery-legacy": "jquery#1.11.1",
+    "bootstrap-sass-official": "3.2.0",
+    "es5-shim": "4.0.3",
+    "angular-legacy": "angular#1.2.9",
+    "angular-modern": "angular#v1.3.15", 
+    "headjs": "~1.0.3",
+    "respond": "~1.4.2",
+    "pie": "http://css3pie.com/download-latest-2.x"
+  },
+  "resolutions": {
+    "angular": ">=1"
+  }
+}
