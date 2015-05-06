@@ -2,7 +2,7 @@ angular.module('app.config', [])
 
 .config(function($locationProvider, $urlRouterProvider, $stateProvider) {
   $urlRouterProvider.otherwise('/home');
-  //$locationProvider.html5Mode(true);
+  $locationProvider.html5Mode(true);
   console.log('Setting state');
   $stateProvider
     .state('app', {
